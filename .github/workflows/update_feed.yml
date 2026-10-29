@@ -1,4 +1,6 @@
 name: Update RSS Feed
+permissions:
+  contents: write
 on:
   schedule:
     - cron: '0 */6 * * *' # Запуск каждые 6 часов
