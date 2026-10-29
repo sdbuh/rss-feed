@@ -30,4 +30,5 @@ jobs:
           git config --global user.email 'action@github.com'
           git add feed.xml
           git commit -m "Update RSS feed" || echo "No changes to commit"
+          git pull --rebase
           git push
