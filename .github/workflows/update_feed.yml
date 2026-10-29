@@ -3,8 +3,8 @@ permissions:
   contents: write
 on:
   schedule:
-    - cron: '0 */6 * * *' # Запуск каждые 6 часов
-  workflow_dispatch: # Позволяет запустить вручную
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -25,10 +25,7 @@ jobs:
         run: python parser.py
 
       - name: Commit and push
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add feed.xml
-          git commit -m "Update RSS feed" || echo "No changes to commit"
-          git pull --rebase
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update RSS feed"
+          file_pattern: feed.xml
