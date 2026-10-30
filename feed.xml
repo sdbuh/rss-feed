@@ -8,77 +8,77 @@
       <title>Облачная ККТ в 1С:УТ, ERP и КА: дистанционные продажи и контроль чеков</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/oblachnaya-kkt-distancionnye-prodazhi/</link>
       <description>В версиях 2.6.2.59 и 11.6.2.59 появился тип оборудования «Облачная ККТ»: чеки в дистанционных продажах, автопробитие в «1С:Онлайн заказы», рабочее место контроля.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/808/ziolp0ulumtxzgjn00v9aon0bcmpjoqk.jpg" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/oblachnaya-kkt-distancionnye-prodazhi/</guid>
     </item>
     <item>
       <title>Заявка на закупку в 1С:УТ, 1С:КА и 1С:ERP: зачем нужен документ, как включить и чем он отличается от заявки на обеспечение</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/zayavka-na-zakupku-ut-ka-erp/</link>
       <description>Документ «Заявка на закупку» в 1С:УТ, КА и ERP с релизов 11.5.26.93 и 2.5.26.93: опция, роли, статусы, маршрут, лимиты БДР, отличия от заявки на обеспечение.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/87e/ta90wbp6ok325s1puyo3u5erto1d6g9s.png" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/zayavka-na-zakupku-ut-ka-erp/</guid>
     </item>
     <item>
       <title>Объект расчётов в 1С:КА 2: почему заказ поставщику не закрывается и как это исправить</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/obekt-raschetov-v-1s-ka-2-korrektirovka-registrov/</link>
       <description>Почему в 1С:КА 2 заказ поставщику не закрывается из-за смены объекта расчётов и как исправить это документом «Корректировка регистров».&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/987/zkz2n2jvq9ootrx8z9ribsg2aqv7q6v6.png" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/obekt-raschetov-v-1s-ka-2-korrektirovka-registrov/</guid>
     </item>
     <item>
       <title>Перенос заказов из 1С:УТ 11 в 1С:Бухгалтерию 3.0: каждый заказ клиента отдельным договором</title>
       <link>https://it-digit.ru/publications/1s-bukhgalteriya-8/perenos-zakazov-iz-ut-11-v-bp-3-0-zakaz-kak-dogovor/</link>
       <description>Как настроить обмен 1С:УТ 11 и 1С:Бухгалтерии 3.0, чтобы каждый заказ клиента переносился счётом с отдельным договором контрагента.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/eae/o94ee74v6e6p6oxzz18rnwy8m77f2itq.png" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-bukhgalteriya-8/perenos-zakazov-iz-ut-11-v-bp-3-0-zakaz-kak-dogovor/</guid>
     </item>
     <item>
       <title>Перенос резервов между заказами в 1С:УТ 11, 1С:КА 2.5 и 1С:ERP 2.5: как устроен помощник</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/perenos-rezervov/</link>
       <description>Как работает обработка «Управление резервами» для 1С:УТ 11, 1С:КА 2.5 и 1С:ERP 2.5: перенос резервов ТМЦ с ранее созданных заказов на позиции текущего заказа, состав полей, порядок действий и ограничения.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/531/rmkbjwexxfw8o512hmpnblauuo794f3j.png" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/perenos-rezervov/</guid>
     </item>
     <item>
       <title>Закупка через посредника в 1С:КА 2: настройки, договор с комитентом и аванс</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/zakupka-cherez-posrednika-1s-ka-chast-1/</link>
       <description>Как посреднику оформить закупку товаров и услуг для комитента в 1С:КА 2: включение агентских услуг, договор поставки под принципала, группа финучёта расчётов и поступление аванса.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/5f1/aqaqtojwv8468xm0lmbsdh1j8n6p0aye.png" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/zakupka-cherez-posrednika-1s-ka-chast-1/</guid>
     </item>
     <item>
       <title>Закупка через посредника в 1С:КА 2: отгрузка принципалу, отчёт комитенту и проверка НДС</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/zakupka-cherez-posrednika-1s-ka-chast-3/</link>
       <description>Финальная часть разбора агентской закупки в 1С:КА 2: отгрузка товаров с хранения принципалу, отчёт комитенту о закупках с комиссионным вознаграждением, перевыставление счетов-фактур и сверка по декларации НДС.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/b35/mwfp5ncdcvaldw8ju6hl5o1o2rca2l16.png" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/zakupka-cherez-posrednika-1s-ka-chast-3/</guid>
     </item>
     <item>
       <title>Закупка через посредника в 1С:КА 2: оплата поставщикам, счета-фактуры и приобретение</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/zakupka-cherez-posrednika-1s-ka-chast-2/</link>
       <description>Вторая часть разбора агентской закупки в 1С:КА 2: договоры с поставщиками, оплата аванса, счета-фактуры на аванс и их перевыставление комитенту, приобретение товаров и услуг с назначением.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/952/nyv6vdnruoye3rksj5vnbna4dpydqoqc.png" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/zakupka-cherez-posrednika-1s-ka-chast-2/</guid>
     </item>
     <item>
       <title>Ордера и статусы отгрузки в 1С:УТ: как не потерять товар между заказом и накладной</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/ordera-i-statusy-otgruzki-v-1s-ut/</link>
       <description>Как в 1С:Управление торговлей работают ордера и статусы отгрузки: где зависает товар между заказом и накладной и как не разъехаться с ордерным складом ERP.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/cff/ou76numw1ihbprgfr38k2p3cketnylde.png" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/ordera-i-statusy-otgruzki-v-1s-ut/</guid>
     </item>
     <item>
       <title>Ценообразование и скидки в 1С:УТ: как не разъехаться с бухгалтерией</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/cenoobrazovanie-i-skidki-v-1s-ut/</link>
       <description>Как в 1С:Управление торговлей держать виды цен, скидки и ручные отклонения так, чтобы реализация в бухгалтерию уходила с той же суммой, что видел менеджер.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/07c/3h9lk12vbihxb0mhgm6n3211ixointp6.png" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/cenoobrazovanie-i-skidki-v-1s-ut/</guid>
     </item>
     <item>
       <title>Резервы и обеспечение в 1С:УТ: почему «есть на складе», а отгрузить нельзя</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/rezervy-i-obespechenie-v-1s-ut/</link>
       <description>Как в 1С:Управление торговлей устроены резервы и обеспечение заказов: почему свободный остаток врёт, откуда берутся «зависшие» резервы и что проверить до отгрузки.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/79b/8z8apr3xf5bpa6v2b9gl09iszra78jjm.png" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/rezervy-i-obespechenie-v-1s-ut/</guid>
     </item>
     <item>
@@ -86,14 +86,14 @@
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/1s-roznitsa-dlya-chego-nuzhen-etot-produkt/</link>
       <description>1С Розница 8.3 — это программный продукт, служащий для автоматизации и оптимизации управления розничным бизнесом и использует широкий спектр функциональных возможностей, которые способствуют эффективному управлению торговлей и повышению работы.
 Основная цель — обеспечение комплексного учета и контроля различных аспектов розничной торговли&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/858/31cm01z4sge1go3f3eeommhcicyaca2w.webp" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/1s-roznitsa-dlya-chego-nuzhen-etot-produkt/</guid>
     </item>
     <item>
       <title>Возможности 1C Управление торговлей: Решения для Вашего Бизнеса</title>
       <link>https://it-digit.ru/publications/1s-upravlenie-torgovley-8/vozmozhnosti-1c-upravlenie-torgovley-resheniya-dlya-vashego-biznesa/</link>
       <description>1C Управление торговлей - это комплексное программное решение, которое предоставляет обширный набор инструментов для регулирования бизнеса в сфере продаж. Эта система предназначена для оптимизации процессов, связанных с коммерческим сбытом продукции, и охватывает широкий спектр задач, начиная от учета товаров и заканчивая анализом коммерческого оборота.&lt;br/&gt;&lt;img src="https://it-digit.ru/upload/iblock/257/dj3uw4ks4y8dlmtxb6mcx7vr5mi3z68q.webp" /&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 03:09:06 +0300</pubDate>
+      <pubDate>Fri, 30 Oct 2026 11:45:12 +0300</pubDate>
       <guid isPermaLink="true">https://it-digit.ru/publications/1s-upravlenie-torgovley-8/vozmozhnosti-1c-upravlenie-torgovley-resheniya-dlya-vashego-biznesa/</guid>
     </item>
   </channel>
